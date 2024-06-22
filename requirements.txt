@@ -1,0 +1,4 @@
+selectolax==0.3.21
+selenium==4.21.0
+fake-useragent==1.5.1
+prettytable==3.10.0
